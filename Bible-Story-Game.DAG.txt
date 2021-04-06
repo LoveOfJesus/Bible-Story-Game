@@ -1,0 +1,76 @@
+https://github.com/LoveOfJesus/Bible-Story-Game.git
+
+<font face = "Comic sans MS" size =" 5">Comic Sans MS</font><br /> ### ^^ FONT STYLE ^^
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Bible-Story-Game.DAG</title>
+</head>
+<body>
+
+<h1> </h1>
+
+### ^^ Page 1 ^^ ###
+
+<font face = "Comic sans MS" size =" 5">
+
+<form action="/action_page.php">
+  <label for="cars">Long ago, in the days of King</label>
+  <select id="cars" name=" ">
+    <option value=""></option>
+    <option value="wrong">Hezekiah</option>
+    <option value="correct">Saul</option>
+    <option value="wrong">Solomon</option>
+  </select>
+  <input type="submit">
+</form>
+
+<form action="/action_page.php">
+  <label for="cars">of Israel, a boy 
+named David helped his</label>
+  <select id="cars" name=" ">
+    <option value=""></option>
+    <option value="wrong">three</option>
+    <option value="wrong">five</option>
+    <option value="correct">seven</option>
+  </select>
+  <input type="submit">
+</form>
+
+brothers look after 
+their father's flocks.
+
+<form action="/action_page.php">
+  <label for="cars">Though he was</label>
+  <select id="cars" name=" ">
+    <option value=""></option>
+    <option value="correct">the youngest,</option>
+    <option value="wrong">middle-aged,</option>
+    <option value="wrong">the oldest,</option>
+  </select>
+  <input type="submit">
+</form>
+
+David was a strong, brave boy who loved and 
+trusted God.
+
+<form action="/action_page.php">
+  <label for="cars">He lived in the town of</label>
+  <select id="cars" name=" ">
+    <option value=""></option>
+    <option value="correct">Bethlehem.</option>
+    <option value="wrong">Jerusalem.</option>
+    <option value="wrong">Nazareth.</option>
+  </select>
+  <input type="submit">
+</form>
+
+</font><br />
+
+<p> </p>
+
+</body>
+</html>
+
+
